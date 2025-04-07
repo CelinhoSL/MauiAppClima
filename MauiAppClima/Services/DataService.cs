@@ -11,7 +11,7 @@ namespace MauiAppClima.Services
             Tempo? t = null;
             HttpStatusCode statusCode = HttpStatusCode.InternalServerError;
 
-            string chave = "824189dbc03c5c8cf9a3efb4a87d398c";
+            string chave = "824189dbc03c5c8c";
             string url = $"https://api.openweathermap.org/data/2.5/weather?q={cidade}" +
                          $"&units=metric&appid={chave}";
 
