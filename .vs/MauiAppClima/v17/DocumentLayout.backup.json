@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Celinho\\source\\repos\\MauiAppClima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A778E2F-9AD7-47AF-A54A-F69908503992}|MauiAppClima\\MauiAppClima.csproj|c:\\users\\celinho\\source\\repos\\mauiappclima\\mauiappclima\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A778E2F-9AD7-47AF-A54A-F69908503992}|MauiAppClima\\MauiAppClima.csproj|solutionrelative:mauiappclima\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A778E2F-9AD7-47AF-A54A-F69908503992}|MauiAppClima\\MauiAppClima.csproj|c:\\users\\celinho\\source\\repos\\mauiappclima\\mauiappclima\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A778E2F-9AD7-47AF-A54A-F69908503992}|MauiAppClima\\MauiAppClima.csproj|solutionrelative:mauiappclima\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A778E2F-9AD7-47AF-A54A-F69908503992}|MauiAppClima\\MauiAppClima.csproj|c:\\users\\celinho\\source\\repos\\mauiappclima\\mauiappclima\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A778E2F-9AD7-47AF-A54A-F69908503992}|MauiAppClima\\MauiAppClima.csproj|solutionrelative:mauiappclima\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A778E2F-9AD7-47AF-A54A-F69908503992}|MauiAppClima\\MauiAppClima.csproj|c:\\users\\celinho\\source\\repos\\mauiappclima\\mauiappclima\\models\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A778E2F-9AD7-47AF-A54A-F69908503992}|MauiAppClima\\MauiAppClima.csproj|solutionrelative:mauiappclima\\models\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Celinho\\source\\repos\\MauiAppClima\\MauiAppClima\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppClima\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Celinho\\source\\repos\\MauiAppClima\\MauiAppClima\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiAppClima\\MainPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:32:59.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Celinho\\source\\repos\\MauiAppClima\\MauiAppClima\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiAppClima\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Celinho\\source\\repos\\MauiAppClima\\MauiAppClima\\MainPage.xaml",
+              "RelativeToolTip": "MauiAppClima\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T00:31:27.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Celinho\\source\\repos\\MauiAppClima\\MauiAppClima\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "MauiAppClima\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\Celinho\\source\\repos\\MauiAppClima\\MauiAppClima\\Services\\DataService.cs",
+              "RelativeToolTip": "MauiAppClima\\Services\\DataService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:46:53.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tempo.cs",
+              "DocumentMoniker": "C:\\Users\\Celinho\\source\\repos\\MauiAppClima\\MauiAppClima\\Models\\Tempo.cs",
+              "RelativeDocumentMoniker": "MauiAppClima\\Models\\Tempo.cs",
+              "ToolTip": "C:\\Users\\Celinho\\source\\repos\\MauiAppClima\\MauiAppClima\\Models\\Tempo.cs",
+              "RelativeToolTip": "MauiAppClima\\Models\\Tempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:46:11.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

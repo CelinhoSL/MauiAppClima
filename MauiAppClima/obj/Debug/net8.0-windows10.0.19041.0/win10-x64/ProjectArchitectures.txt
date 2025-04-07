@@ -1,0 +1,1 @@
+C:\Users\Celinho\source\repos\MauiAppClima\MauiAppClima\MauiAppClima.csproj;x64
